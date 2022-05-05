@@ -3,7 +3,7 @@
     "description": "AI Prediction developed by Tarandeep Singh, 2017HT121516",
     "image": "heroku/python",
     "repository": "https://github.com/heroku/python-getting-started",
-    "keywords": ["python", "django" ],
+    "keywords": ["python"],
     "environments": {
       "test": {
         "scripts": {
