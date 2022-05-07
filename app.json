@@ -1,8 +1,8 @@
 {
-    "name": "AI Prediction",
-    "description": "AI Prediction developed by Tarandeep Singh, 2017HT121516",
+    "name": "Heart Disease AI Prediction",
+    "description": "Heart Disease AI Prediction developed by Tarandeep Singh",
     "image": "heroku/python",
-    "repository": "https://github.com/heroku/python-getting-started",
+    "repository": "https://github.com/Tdssaini/heart_disease_ai_prediction",
     "keywords": ["python"],
     "environments": {
       "test": {
